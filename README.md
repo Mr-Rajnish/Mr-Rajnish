@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Rajnish
-- 👀 I’m interested in ..mern full stack  and data science
-- 🌱 I’m currently learning ...mern full stack dev
+- 👀 I’m interested in ..mern full stack,data science and DSA
+- 🌱 I’m currently learning ...mern full stack dev and solving problems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..email : rajnishsingh9451270332@gmail.com
 
